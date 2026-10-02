@@ -1,7 +1,7 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
-**Team Name:** Swastika Sinha  
-**Team Members:** Swastika Sinha  
+**Team Name:** SOLID  
+**Team Members:** Swastika Sinha, Krish Shrimali, Shaunak Diwan, Ojas Barhate
 **Submission Date:** 25 September 2026
 
 ## 1. Executive Summary
