@@ -1,0 +1,86 @@
+{
+  "team": "Swastika Sinha",
+  "input_archive_name": "6ab10eb3b23ba_student_resource.zip",
+  "files": {
+    "code/business_entity_resolution/LICENSE": {
+      "bytes": 1104,
+      "sha256": "c82a988aeac8c9c30e487d279f9c13db1eada758edd28c1d85f72b41eee6c259"
+    },
+    "code/business_entity_resolution/model/data_profile.json": {
+      "bytes": 914,
+      "sha256": "58ebef381f745c7193de5171ef296c54852a64619253cc54d38a2ab9496e387e"
+    },
+    "code/business_entity_resolution/model/error_examples.json": {
+      "bytes": 22742,
+      "sha256": "dad20b7b32bd377a1c29498fb46125c87c38511971104362e9b5db1700a23990"
+    },
+    "code/business_entity_resolution/model/holdout_errors.tsv": {
+      "bytes": 48225,
+      "sha256": "11e33a36a7579552ab90e282a0905fe9e7709c8b58f5d4b567d09c282913c718"
+    },
+    "code/business_entity_resolution/model/metadata.json": {
+      "bytes": 8457,
+      "sha256": "c5b87d2f638744c529186a30f0cd03be6dff601f7e27664b5549e5c328941a3b"
+    },
+    "code/business_entity_resolution/model/model.txt": {
+      "bytes": 920470,
+      "sha256": "8098f2f81cf44b3fead37aa8ff6fc4571f585963c23ba4087ab7342c3ceae844"
+    },
+    "code/business_entity_resolution/README.md": {
+      "bytes": 5750,
+      "sha256": "80c889a3df2d774bb00a19f2055d0cc33abbc3ebfe0aa57397af1a64dd1f5a1f"
+    },
+    "code/business_entity_resolution/requirements.txt": {
+      "bytes": 143,
+      "sha256": "bc25ad51050ef7c33927878d12b29a64ea162de12a880732c47986ba16882f00"
+    },
+    "code/business_entity_resolution/src/pipeline.py": {
+      "bytes": 17696,
+      "sha256": "dd905a500a3e44e9c0f9ad110f334564ab6fa32d1296f92dfed784341598c3eb"
+    },
+    "code/business_entity_resolution/src/test_pipeline.py": {
+      "bytes": 3043,
+      "sha256": "2c24a9a01e43d43ba10d39864fb83caaf4a2e330e3074f96fafa9bb0665c00cd"
+    },
+    "code/business_entity_resolution/src/validate_official_batched.py": {
+      "bytes": 2947,
+      "sha256": "6557f2b365c5e5aa32c08fe879474ae432daa5c3c986693be8f08e70ec19c159"
+    },
+    "code/business_entity_resolution/src/validate_streaming.py": {
+      "bytes": 2700,
+      "sha256": "a357bb284d105587c174d11874d719238c658e8f2a4971c74bac3f42554122ec"
+    },
+    "code/business_entity_resolution/src/validate_submission.py": {
+      "bytes": 13687,
+      "sha256": "f96f59934383a15095914f507620c078c474e8f9c60e864b2d051ed173a22dfc"
+    },
+    "code/business_entity_resolution/THIRD_PARTY_LICENSES.txt": {
+      "bytes": 1122,
+      "sha256": "6d07abce45951a6895eaa77c7dfcc2159807670b68f7f81f890c753436adf579"
+    },
+    "Documentation_template.md": {
+      "bytes": 10749,
+      "sha256": "d39fd6dec0326d30847c31bfcaf0fe67289e42bcd820c3dd24263215bcaf7f94"
+    },
+    "output/candidate_pairs.tsv": {
+      "bytes": 1157072965,
+      "sha256": "d566883897b4652d58d89ba5c6d64f77881e85f0ef47caccbe384b65139a8266"
+    },
+    "output/matching_results.tsv": {
+      "bytes": 104498272,
+      "sha256": "b16e95c5dda0c82b717787588da1278e30b73a273631cd8b6b1850144a7ff400"
+    },
+    "output/official_validation_report.json": {
+      "bytes": 285,
+      "sha256": "3512e728e293f1e1bc676ea763b3495f9b2c6d938aab31e76d7b77d7cc59a240"
+    },
+    "output/run_summary.json": {
+      "bytes": 766,
+      "sha256": "8437f6fd2ba09f389c58ee6a3b5a5b333e384d1781c8b874ecb41df67cfe7cf2"
+    },
+    "output/validation_report.json": {
+      "bytes": 823,
+      "sha256": "5138f95d84bb9dc3c0e01f6992d315d8973bc2830c2ee0100928713fba63d4c5"
+    }
+  }
+}
